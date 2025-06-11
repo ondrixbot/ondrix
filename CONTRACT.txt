@@ -1,1 +1,1 @@
-Ondrix.sol
+contract/ONDrix.sol
