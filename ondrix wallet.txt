@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Ondrix Wallet</title>
+</head>
+<body>
+  <h1>🔐 Ondrix Wallet</h1>
+  <p>To contribute, please use one of the addresses below:</p>
+
+  <ul>
+    <li>💎 TRX / USDT (TRC20): <strong>TVdXhsjpCdyac37ETg3Xxb7Piwxi5XNByH</strong></li>
+    <li>🐝 BNB (BEP20): <strong>0x04a907894b88ac8E96463c83646cb0f0f119376CC</strong></li>
+  </ul>
+
+  <p>⚠️ This wallet is part of the official Ondrix.com network.</p>
+</body>
+</html>
